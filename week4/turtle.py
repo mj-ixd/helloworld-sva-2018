@@ -5,7 +5,6 @@ wn.bgcolor("black")
 
 mj = turtle.Turtle()
 mj.speed(120)
-turtle.Screen().bgcolor("black")
 mj.color("blue")
 
 
