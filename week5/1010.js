@@ -13,7 +13,7 @@ function setup(){
 }
 
 function draw(){
-  background(246);
+  background(245);
   fill(random(248), random(248), random(248));
   ellipse(width/2, height/2, r1, r1);
 }
