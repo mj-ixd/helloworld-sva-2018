@@ -4,7 +4,7 @@ wn = turtle.Screen()
 wn.bgcolor("black")
 
 mj = turtle.Turtle()
-mj.speed(120)
+mj.speed(150)
 mj.color("blue")
 
 
